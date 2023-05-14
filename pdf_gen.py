@@ -1,10 +1,8 @@
 import os
-
 import webbrowser
-
 from fpdf import FPDF
-
 from filestack import Client
+from secrets import key
 
 
 class PdfReport:
