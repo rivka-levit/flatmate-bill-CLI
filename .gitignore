@@ -263,3 +263,4 @@ fabric.properties
 .idea/caches/build_file_checksums.ser
 /.idea/flatmates_bill_app_2.iml
 /secrets.py
+/.idea/app.iml
